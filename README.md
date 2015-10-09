@@ -1,2 +1,2 @@
 # TopCoder Practice Problems
-Personal repository of solutions to TopCoder problems written in C++
+Personal repository of solutions to practice problems from TopCoder written in C++
